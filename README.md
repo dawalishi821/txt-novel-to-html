@@ -63,8 +63,8 @@
 
 ### 3. 克隆项目
 ```bash
-git clone https://github.com/yxyyds666/novel-online-web.git
-cd novel-online-web
+git clone https://github.com/yxyyds666/--novel-online-web.git
+cd --novel-online-web
 ```
 
 ---
