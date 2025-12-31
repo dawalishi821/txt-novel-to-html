@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# user data
+novels/
+
+# generated files
+output/
+
